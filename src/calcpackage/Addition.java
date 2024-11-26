@@ -1,4 +1,4 @@
-package calcPackage;
+package calcpackage;
 
 public class Addition {
     public Addition (){

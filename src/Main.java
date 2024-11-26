@@ -1,7 +1,5 @@
-import calcPackage.Addition;
-import calcPackage.Applikation;
-
-import java.util.Scanner;
+import calcpackage.Addition;
+import calcpackage.Applikation;
 
 public class Main {
     public static void main(String[] args) {

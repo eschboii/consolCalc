@@ -1,4 +1,4 @@
-package calcPackage;
+package calcpackage;
 import java.util.Scanner;
 
 public class Applikation {

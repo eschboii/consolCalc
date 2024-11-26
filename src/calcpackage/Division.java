@@ -2,7 +2,7 @@ package calcpackage;
 
 public class Division {
 
-    public int div(int a, int b) {
+    public double div(double a, double b) {
         if (b == 0) {
             return 0;
         }

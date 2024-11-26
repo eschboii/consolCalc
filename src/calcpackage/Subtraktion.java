@@ -2,7 +2,7 @@ package calcpackage;
 
 public class Subtraktion {
 
-    public int subtract(int a, int b) {
+    public double sub(double a, double b) {
         return a - b;
     }
 

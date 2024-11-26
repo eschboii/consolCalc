@@ -1,17 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="VcsDirectoryMappings">
-<<<<<<< HEAD
-<<<<<<< HEAD
     <mapping directory="" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/consolCalc" vcs="Git" />
-=======
-    <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
-    <mapping directory="$PROJECT_DIR$" vcs="Git" />
->>>>>>> main
-=======
-    <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
-    <mapping directory="$PROJECT_DIR$" vcs="Git" />
->>>>>>> 4140b4089275b4ee539e800a437ae5040635fbbb
   </component>
 </project>

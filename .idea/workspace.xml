@@ -4,6 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
+<<<<<<< HEAD
+    <list default="true" id="3e6bfc6b-8640-45fd-bdde-5c30a5c2aec7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/consoleCalc.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/calcpackage/Addition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/calcpackage/Applikation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/calcpackage/Subtraktion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/consolCalc" beforeDir="false" />
+=======
     <list default="true" id="1928e419-fb4f-4d9b-9774-d3deec8c7687" name="Changes" comment="">
 <<<<<<< HEAD
       <change afterPath="$PROJECT_DIR$/src/calcPackage/Addition.java" afterDir="false" />
@@ -22,12 +39,15 @@
       <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
 >>>>>>> a8c92db64c2a1972a8360c1b940c0656a42d820b
+>>>>>>> 4140b4089275b4ee539e800a437ae5040635fbbb
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+<<<<<<< HEAD
+=======
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -35,23 +55,40 @@
       </list>
     </option>
   </component>
+>>>>>>> 4140b4089275b4ee539e800a437ae5040635fbbb
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
+<<<<<<< HEAD
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2pO6fDSIJOdEd7EvyFjEkqwBoo0" />
+=======
   &quot;associatedIndex&quot;: 3
 }</component>
   <component name="ProjectId" id="2pNkY2oLpKWKhi44zjWbJcrnqAd" />
+>>>>>>> 4140b4089275b4ee539e800a437ae5040635fbbb
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+<<<<<<< HEAD
+    "Application.Main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/esch_/JavaProjekt/consoleCalc",
+=======
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "add",
     "kotlin-language-version-configured": "true",
+>>>>>>> 4140b4089275b4ee539e800a437ae5040635fbbb
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -60,17 +97,45 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+<<<<<<< HEAD
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fdfe4dae3a2d-intellij.indexing.shared.core-IU-243.21565.193" />
+        <option value="bundled-js-predefined-d6986cc7102b-e768b9ed790e-JavaScript-IU-243.21565.193" />
+=======
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
         <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.23339.11" />
         <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.23339.11" />
+>>>>>>> 4140b4089275b4ee539e800a437ae5040635fbbb
       </set>
     </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+<<<<<<< HEAD
+      <changelist id="3e6bfc6b-8640-45fd-bdde-5c30a5c2aec7" name="Changes" comment="" />
+      <created>1732624876977</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1732624876977</updated>
+      <workItem from="1732624878156" duration="797000" />
+      <workItem from="1732625689571" duration="24000" />
+=======
       <changelist id="1928e419-fb4f-4d9b-9774-d3deec8c7687" name="Changes" comment="" />
       <created>1732613966728</created>
       <option name="number" value="Default" />
@@ -84,6 +149,7 @@
 =======
       <workItem from="1732617590189" duration="500000" />
 >>>>>>> a8c92db64c2a1972a8360c1b940c0656a42d820b
+>>>>>>> 4140b4089275b4ee539e800a437ae5040635fbbb
     </task>
     <servers />
   </component>

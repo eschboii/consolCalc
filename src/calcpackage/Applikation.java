@@ -10,13 +10,11 @@ public class Applikation {
 
     int caseChoice;
 
+    private Addition addera = new Addition();
+
 
     public Applikation() {
-        new Addition();
-
         prompt();
-        switchyCase(caseChoice);
-
     }
 
     public void prompt(){
@@ -31,24 +29,33 @@ public class Applikation {
         System.out.println("4. Division");
         caseChoice = scan.nextInt();
 
+
         System.out.println("Skriv in nästa tal");
+        tal2 = scan.nextInt();
+        switchyCase(caseChoice);
+
+        System.out.print("Din summa är: " + summa);
+        System.out.println("Skriv in nästa tal");
+
 
     }
 
     public int switchyCase (int caseChoice){
 
         switch(caseChoice){
-            case 1: Addition
+            case 1: summa = addera.add(tal1, tal2);
                 break;
                 case 2:
-                    break;
+                    break; summa =
                     case 3:
                         break;
                         case 4:
                             break;
         }
 
-        return caseChoice;
+
+        return summa;
+
 
     }
 

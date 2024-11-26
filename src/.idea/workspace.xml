@@ -4,18 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b7185348-3fd7-4d68-bac7-cb7b33a58c19" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+<<<<<<< HEAD
+    <list default="true" id="b7185348-3fd7-4d68-bac7-cb7b33a58c19" name="Changes" comment="" />
+=======
+    <list default="true" id="b7185348-3fd7-4d68-bac7-cb7b33a58c19" name="Changes" comment="jda">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calcpackage/Multiplikation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/calcpackage/Addition.java" beforeDir="false" afterPath="$PROJECT_DIR$/calcpackage/Addition.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/calcpackage/Applikation.java" beforeDir="false" afterPath="$PROJECT_DIR$/calcpackage/Applikation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/calcpackage/Berakning.java" beforeDir="false" afterPath="$PROJECT_DIR$/calcpackage/Berakning.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/calcpackage/Division.java" beforeDir="false" afterPath="$PROJECT_DIR$/calcpackage/Division.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/calcpackage/Subtraktion.java" beforeDir="false" afterPath="$PROJECT_DIR$/calcpackage/Subtraktion.java" afterDir="false" />
     </list>
+>>>>>>> main
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,6 +24,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/.." value="indev" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectColorInfo">{
@@ -99,9 +99,21 @@
       <workItem from="1732636713270" duration="40000" />
       <workItem from="1732636757574" duration="3384000" />
     </task>
+    <task id="LOCAL−00001" summary="jda">
+      <option name="closed" value="true" />
+      <created>1732642684812</created>
+      <option name="number" value="LOCAL−00001" />
+      <option name="presentableId" value="LOCAL−00001" />
+      <updated>1732642684812</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="jda" />
+    <option name="LAST_COMMIT_MESSAGE" value="jda" />
   </component>
 </project>

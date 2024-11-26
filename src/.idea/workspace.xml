@@ -8,6 +8,13 @@
       <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calcpackage/Multiplikation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcpackage/Addition.java" beforeDir="false" afterPath="$PROJECT_DIR$/calcpackage/Addition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcpackage/Applikation.java" beforeDir="false" afterPath="$PROJECT_DIR$/calcpackage/Applikation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcpackage/Berakning.java" beforeDir="false" afterPath="$PROJECT_DIR$/calcpackage/Berakning.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcpackage/Division.java" beforeDir="false" afterPath="$PROJECT_DIR$/calcpackage/Division.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcpackage/Subtraktion.java" beforeDir="false" afterPath="$PROJECT_DIR$/calcpackage/Subtraktion.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +45,8 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;indev&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/esch_/JavaProjekt/consoleCalc&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
@@ -48,11 +57,25 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="consoleCalc" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9823dce3aa75-fdfe4dae3a2d-intellij.indexing.shared.core-IU-243.21565.193" />
-        <option value="bundled-js-predefined-d6986cc7102b-e768b9ed790e-JavaScript-IU-243.21565.193" />
+        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.23726.103" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.23726.103" />
       </set>
     </attachedChunks>
   </component>
@@ -72,6 +95,9 @@
       <workItem from="1732631117183" duration="42000" />
       <workItem from="1732632872321" duration="603000" />
       <workItem from="1732642081097" duration="9000" />
+      <workItem from="1732632872321" duration="214000" />
+      <workItem from="1732636713270" duration="40000" />
+      <workItem from="1732636757574" duration="3384000" />
     </task>
     <servers />
   </component>

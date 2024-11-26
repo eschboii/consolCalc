@@ -6,12 +6,9 @@ public class Applikation {
 
     int tal1;
     int tal2;
-    int summa;
-
     int caseChoice;
 
-    private Addition addera = new Addition();
-
+    private Berakning berakning = new Berakning();
 
     public Applikation() {
         prompt();
@@ -29,35 +26,16 @@ public class Applikation {
         System.out.println("4. Division");
         caseChoice = scan.nextInt();
 
-
         System.out.println("Skriv in nästa tal");
         tal2 = scan.nextInt();
-        switchyCase(caseChoice);
+
+        int summa = berakning.switchyCase(caseChoice, tal1, tal2);
 
         System.out.print("Din summa är: " + summa);
-        System.out.println("Skriv in nästa tal");
 
 
     }
 
-    public int switchyCase (int caseChoice){
-
-        switch(caseChoice){
-            case 1: summa = addera.add(tal1, tal2);
-                break;
-                case 2:
-                    break; summa =
-                    case 3:
-                        break;
-                        case 4:
-                            break;
-        }
-
-
-        return summa;
-
-
-    }
 
 
 

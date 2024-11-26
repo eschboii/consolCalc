@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1928e419-fb4f-4d9b-9774-d3deec8c7687" name="Changes" comment="">
+<<<<<<< HEAD
       <change afterPath="$PROJECT_DIR$/src/calcPackage/Addition.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/calcPackage/Applikation.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -16,6 +17,11 @@
       <change beforePath="$PROJECT_DIR$/../markdownTest/MarkdownTest.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../markdownTest/README.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../markdownTest/src/Main.java" beforeDir="false" />
+=======
+      <change afterPath="$PROJECT_DIR$/src/calcpackage/Subtraktion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+>>>>>>> a8c92db64c2a1972a8360c1b940c0656a42d820b
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,8 +63,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9823dce3aa75-fdfe4dae3a2d-intellij.indexing.shared.core-IU-243.21565.193" />
-        <option value="bundled-js-predefined-d6986cc7102b-e768b9ed790e-JavaScript-IU-243.21565.193" />
+        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.23339.11" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.23339.11" />
       </set>
     </attachedChunks>
   </component>
@@ -73,7 +79,11 @@
       <workItem from="1732613967740" duration="6000" />
       <workItem from="1732616252891" duration="27000" />
       <workItem from="1732616507737" duration="8000" />
+<<<<<<< HEAD
       <workItem from="1732617343358" duration="946000" />
+=======
+      <workItem from="1732617590189" duration="500000" />
+>>>>>>> a8c92db64c2a1972a8360c1b940c0656a42d820b
     </task>
     <servers />
   </component>

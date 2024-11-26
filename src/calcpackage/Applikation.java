@@ -9,22 +9,12 @@ public class Applikation {
     int summa;
 
     int caseChoice;
-<<<<<<< HEAD
+
     private Addition addera = new Addition();
 
 
     public Applikation() {
         prompt();
-=======
-
-
-    public Applikation() {
-        new Addition();
-
-        prompt();
-        switchyCase(caseChoice);
-
->>>>>>> 4140b4089275b4ee539e800a437ae5040635fbbb
     }
 
     public void prompt(){
@@ -39,44 +29,33 @@ public class Applikation {
         System.out.println("4. Division");
         caseChoice = scan.nextInt();
 
-<<<<<<< HEAD
 
         System.out.println("Skriv in nästa tal");
         tal2 = scan.nextInt();
         switchyCase(caseChoice);
 
         System.out.print("Din summa är: " + summa);
-=======
         System.out.println("Skriv in nästa tal");
->>>>>>> 4140b4089275b4ee539e800a437ae5040635fbbb
+
 
     }
 
     public int switchyCase (int caseChoice){
 
         switch(caseChoice){
-<<<<<<< HEAD
             case 1: summa = addera.add(tal1, tal2);
                 break;
                 case 2:
-                    break; summa = 
-=======
-            case 1: Addition
-                break;
-                case 2:
-                    break;
->>>>>>> 4140b4089275b4ee539e800a437ae5040635fbbb
+                    break; summa =
                     case 3:
                         break;
                         case 4:
                             break;
         }
 
-<<<<<<< HEAD
+
         return summa;
-=======
-        return caseChoice;
->>>>>>> 4140b4089275b4ee539e800a437ae5040635fbbb
+
 
     }
 
